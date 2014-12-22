@@ -18,7 +18,7 @@ public class LinkedListIntersectionSolution {
     	
     	if(headA==headB){
     		return headA;
-    	}
+    	}  
     	
     	int a_length=1;
     	ListNode itA=headA;
