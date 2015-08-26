@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ZigZag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/leetcode/ZigZagTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ATOITest.class" afterPath="$PROJECT_DIR$/bin/leetcode/ATOITest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumberTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/AddTwoNumberTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution2.class" afterPath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/CompareVersionSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/CompareVersionSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/CompareVersionTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/CompareVersionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ListNode.class" afterPath="$PROJECT_DIR$/bin/leetcode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/LongestSubstringSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/LongestSubstringSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/LongestSubstringTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/LongestSubstringTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumGapSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/MaximumGapSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumGapTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/MaximumGapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumSubarraySolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/MaximumSubarraySolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumSubarrayTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/MaximumSubarrayTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MergeSortedArraySolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/MergeSortedArraySolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/PalindromeSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/PalindromeSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/PowSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/PowSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/PowTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/PowTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveElementSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/RemoveElementSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseIntegerSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/ReverseIntegerSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseWordsSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/ReverseWordsSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseWordsTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/ReverseWordsTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/SetMatrixZeroesSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/SetMatrixZeroesSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/SingleNumberSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/SingleNumberSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/StrStrSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/StrStrSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSum03072015.class" afterPath="$PROJECT_DIR$/bin/leetcode/TwoSum03072015.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSumSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/TwoSumSolution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSumTest.class" afterPath="$PROJECT_DIR$/bin/leetcode/TwoSumTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/ValidNumber.class" afterPath="$PROJECT_DIR$/bin/leetcode/ValidNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/leetcode/atoiSolution.class" afterPath="$PROJECT_DIR$/bin/leetcode/atoiSolution.class" />
-    </list>
+    <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -489,7 +444,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -508,7 +463,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
