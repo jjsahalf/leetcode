@@ -4,6 +4,9 @@ package leetcode;
  * Created by yufeijiang on 9/28/15.
  */
 public class MySqrtSolution {
+    //mySqrt心得：
+    //分支的选择 能用else一定要用else
+    //大数的处理，危险性在于middle*middle， 临时找一个类型暂存一下
     public int mySqrt(int x) {
         if(x==0){
             return 0;
