@@ -7,6 +7,23 @@ import java.util.Map;
  * Created by yufeijiang on 2/13/16.
  */
 public class ValidAnagramSolution {
+
+
+    /*
+    Sort two arrays, easier but slower!
+     public boolean isAnagram(String s, String t) {
+            char[] schar = s.toCharArray();
+            char[] tchar = t.toCharArray();
+            Arrays.sort(schar);
+            Arrays.sort(tchar);
+            s = new String(schar);
+            t = new String(tchar);
+            return s.equals(t);
+        }
+     */
+
+
+
     public boolean isAnagram(String s, String t) {
         int sLength=s.length();
         int tLength=t.length();
