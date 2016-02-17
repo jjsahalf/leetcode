@@ -11,7 +11,7 @@ public class BullsAndCows {
 
 
    THIS ONE IS BETTER, ONE ARRAY, ONE ROUND OF TRAVERSE
-   
+
         public String getHint(String secret, String guess) {
 
         if (secret == null || guess == null || secret.length() != guess.length()) {
