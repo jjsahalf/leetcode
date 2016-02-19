@@ -4,6 +4,11 @@ package leetcode;
  * Created by yufeijiang on 2/19/16.
  */
 public class ContainerWithMostWaterSolution {
+
+    /*
+    认真审题,一次遍历!
+     */
+
     public int maxArea(int[] height) {
         if(height==null){
             return -1;
