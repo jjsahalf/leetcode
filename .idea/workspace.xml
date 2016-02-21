@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/LetterCombinationsPhoneNumberSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/FourSumSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NimGameSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/NimGameSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BullsAndCows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,14 +107,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LetterCombinationsPhoneNumberSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LetterCombinationsPhoneNumberSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/LetterCombinationsPhoneNumberSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8548387">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FourSumSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/FourSumSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31451613">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/LinkedListCycleSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ImplementStackUsingQueuesSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveDuplicatesFromSortedListSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PlusOneSolution.java" />
@@ -202,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/IntegerToRomanSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ThreeSumClosestSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LetterCombinationsPhoneNumberSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/FourSumSolution.java" />
       </list>
     </option>
   </component>
@@ -628,13 +628,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LinkedListCycleSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementStackUsingQueuesSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -993,11 +986,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/LetterCombinationsPhoneNumberSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8548387">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FourSumSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31451613">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
