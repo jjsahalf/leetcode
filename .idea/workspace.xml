@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/AbsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/leetcode/AbsTestTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/DivideTwoIntegersSolution.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ATOITest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumberTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/AddTwoNumbersSolution2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/CompareVersionSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/CompareVersionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/FractionToRecurringDecimalTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/LinkedListIntersectionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/LongestSubstringSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/LongestSubstringTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumGapSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumGapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumSubarraySolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MaximumSubarrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MergeSortedArraySolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/MergeTwoSortedListsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/PalindromeSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/PowSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/PowTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveDuplicatesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/RemoveElementSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseIntegerSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseLinkedListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseWordsSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ReverseWordsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/RomanToIntegerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/SetMatrixZeroesSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/SingleNumberSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/StrStrSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSum03072015.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSumSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/TwoSumTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ValidNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ZigZag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/ZigZagTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/leetcode/atoiSolution.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/FourSumSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/FourSumSolution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/PostOrderTraversalSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/PostOrderTraversalSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/NextPermutationSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -72,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IntegerToRomanSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerToRomanSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ThreeSumClosestSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosestSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DivideTwoIntegersSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DivideTwoIntegersSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/DivideTwoIntegersSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2850122">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NextPermutationSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/NextPermutationSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2388535">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -201,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeLevelOrderTraversalIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BalancedBinaryTreeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MinimumDepthofBinaryTreeSolution.java" />
@@ -252,6 +204,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/PostOrderTraversalSolution.java" />
         <option value="$PROJECT_DIR$/test/leetcode/AbsTestTest.java" />
         <option value="$PROJECT_DIR$/src/leetcode/DivideTwoIntegersSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/NextPermutationSolution.java" />
       </list>
     </option>
   </component>
@@ -268,7 +221,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="717" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -293,6 +246,11 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -321,60 +279,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RemoveDuplicatesFromSortedListII.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Tests" />
       </pane>
     </panes>
   </component>
@@ -699,18 +612,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="717" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -718,14 +629,16 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -750,13 +663,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/BalancedBinaryTreeSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/MinimumDepthofBinaryTreeSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -971,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,9 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1130,8 +1024,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/DivideTwoIntegersSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2850122">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/NextPermutationSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2388535">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
