@@ -7,6 +7,7 @@ public class Search2DMatrix {
 
     /*
     也可以不用递归
+    最近本的非递归二分查找要精通!
     public class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0) {
