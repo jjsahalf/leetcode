@@ -8,6 +8,12 @@ import java.util.List;
  */
 public class CombinationSolution {
 
+    /*
+    应该牢记
+    跟permutaiton比是没有了used数组,总是check比自己大的
+    经典backtracking问题!
+     */
+
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> list=new ArrayList();
 
