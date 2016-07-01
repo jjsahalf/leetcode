@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ConvertSortedArrayToBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ConvertSortedListoBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/PathSumIISolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,18 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GrayCodeSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/GrayCodeSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SubsetsIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/SubsetsIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,12 +112,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertSortedArrayToBinarySearchTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConvertSortedArrayToBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ConvertSortedArrayToBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSumIISolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/PathSumIISolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/FirstBadVersion.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MoveZeroesSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/WordPatternSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/NimGameSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BullsAndCows.java" />
@@ -206,6 +205,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/ConstructBinaryTreeFromPreorderAndSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ConvertSortedArrayToBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ConvertSortedListoBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/PathSumIISolution.java" />
       </list>
     </option>
   </component>
@@ -219,7 +220,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -676,7 +677,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -729,20 +730,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NimGameSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/BullsAndCows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQuerySolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1097,11 +1084,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ConvertSortedListoBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ConvertSortedArrayToBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PathSumIISolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
