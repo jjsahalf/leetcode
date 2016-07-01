@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ConvertSortedListoBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/PathSumIISolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedListSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -26,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SubsetsIISolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SubsetsIISolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DecodeWaysSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/DecodeWaysSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PathSumIISolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PathSumIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/PathSumIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
@@ -130,6 +119,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlattenBinaryTreetoLinkedListSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedListSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -156,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/WordPatternSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/NimGameSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RangeSumQuerySolution.java" />
@@ -207,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/ConvertSortedArrayToBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ConvertSortedListoBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PathSumIISolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedListSolution.java" />
       </list>
     </option>
   </component>
@@ -730,13 +729,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQuerySolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/PowerOfThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1107,6 +1099,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/FlattenBinaryTreetoLinkedListSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
