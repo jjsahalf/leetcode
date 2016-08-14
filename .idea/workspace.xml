@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/BinaryTreeUpsideDownSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ReadNCharactersGivenRead4Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingleNumberIISolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SingleNumberIISolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WordBreak.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/WordBreak.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeUpsideDownSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeUpsideDownSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/BinaryTreeUpsideDownSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -123,6 +113,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadNCharactersGivenRead4Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ReadNCharactersGivenRead4Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/SearchInsertPositionSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CombinationSumSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CombinationSumIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MultiplyStringsSolution.java" />
@@ -200,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/FindMinimumInRotatedSortedArraySolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/FindMinimumInRotatedSortedArrayIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeUpsideDownSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ReadNCharactersGivenRead4Solution.java" />
       </list>
     </option>
   </component>
@@ -722,13 +722,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/CombinationSumIISolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/PermutationsSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1092,6 +1085,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ReadNCharactersGivenRead4Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
