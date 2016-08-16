@@ -5,7 +5,7 @@ package leetcode;
  */
 public class OneEditDistanceSolution {
     /*
-    大同小异, 
+    大同小异,
         public boolean isOneEditDistance(String s, String t) {
         int m = s.length(), n = t.length();
         if(m == n) return isOneModified(s, t);
