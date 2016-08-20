@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/TwoSumIIISolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/BinarySearchTreeIteratorSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OneEditDistanceSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/OneEditDistanceSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EditDistanceSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/EditDistanceSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +121,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSumIIISolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSumIIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/TwoSumIIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -140,6 +130,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#243#252#0" expanded="true" />
                 <element signature="e#307#325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTreeIteratorSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/BinarySearchTreeIteratorSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/RotateListSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/UniquePathsSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MinimumPathSum.java" />
@@ -218,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/WordSearchIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/AddAndSearchWordSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/TwoSumIIISolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/BinarySearchTreeIteratorSolution.java" />
       </list>
     </option>
   </component>
@@ -762,13 +764,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RotateListSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePathsSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
@@ -1147,6 +1142,16 @@
             <element signature="imports" expanded="true" />
             <element signature="e#243#252#0" expanded="true" />
             <element signature="e#307#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/BinarySearchTreeIteratorSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
