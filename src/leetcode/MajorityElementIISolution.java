@@ -7,6 +7,43 @@ import java.util.List;
  * Created by yufeijiang on 8/30/16.
  */
 public class MajorityElementIISolution {
+
+
+    /*
+    public int kthSmallest(TreeNode root, int k) {
+        if(root==null){
+            return -1;
+        }
+        int counter=0;
+        Stack<TreeNode> stack=new Stack();
+        TreeNode mover=root;
+        while(mover!=null){
+            stack.push(mover);
+            mover=mover.left;
+        }
+        while(mover!=null || (!stack.isEmpty())){
+            if(mover==null){
+                mover=stack.pop();
+                counter++;
+                if(counter==k){
+                    return mover.val;
+                }
+                mover=mover.right;
+            }else{
+                while(mover!=null){
+                    stack.push(mover);
+                    mover=mover.left;
+                }
+            }
+        }
+        return -1;
+    }
+     */
+
+
+
+
+
     public List<Integer> majorityElement(int[] nums) {
         List<Integer> list = new ArrayList();
         if(nums==null || nums.length==0){
