@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/CopyListWithRandomPointerSolution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/RandomListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/PlusOneLinkedListSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -26,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumSizeSubarraySumSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/MinimumSizeSubarraySumSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CourseScheduleIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/CourseScheduleIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyListWithRandomPointerSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CopyListWithRandomPointerSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/CopyListWithRandomPointerSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -106,6 +95,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlusOneLinkedListSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/PlusOneLinkedListSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/ReorderList.java" />
         <option value="$PROJECT_DIR$/src/leetcode/InsertionSortListSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/EvaluateReversePolishNotationSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaximumProductSubarraySolution.java" />
@@ -203,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/LargestBSTSubtreeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CopyListWithRandomPointerSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/PlusOneLinkedListSolution.java" />
       </list>
     </option>
   </component>
@@ -835,13 +834,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/InsertionSortListSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/EvaluateReversePolishNotationSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1214,6 +1206,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PlusOneLinkedListSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
