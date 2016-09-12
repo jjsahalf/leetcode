@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/GraphValidTreeSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/NumberofConnectedComponentsinanUndirectedGraphSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StrobogrammaticNumberIIISolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/StrobogrammaticNumberIIISolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GroupShiftedStringsSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/GroupShiftedStringsSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,8 +115,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphValidTreeSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphValidTreeSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/GraphValidTreeSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberofConnectedComponentsinanUndirectedGraphSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/NumberofConnectedComponentsinanUndirectedGraphSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
               <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
@@ -157,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeMaximumPathSumSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LowestCommonAncestorOfABinaryTreeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/VerifyPreorderSerializationOfABinaryTreeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeVerticalOrderTraversalSolution.java" />
@@ -208,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/ThreeSumSmallerSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SingleNumberIIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/GraphValidTreeSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/NumberofConnectedComponentsinanUndirectedGraphSolution.java" />
       </list>
     </option>
   </component>
@@ -906,13 +906,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LowestCommonAncestorOfABinaryTreeSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/VerifyPreorderSerializationOfABinaryTreeSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1283,6 +1276,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/GraphValidTreeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/NumberofConnectedComponentsinanUndirectedGraphSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
