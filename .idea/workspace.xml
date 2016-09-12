@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/EncodeandDecodeStringsSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/HIndexIISolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,20 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MeetingRoomsSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/MeetingRoomsSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MeetingRoomsIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MeetingRoomsIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EncodeandDecodeStringsSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EncodeandDecodeStringsSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/EncodeandDecodeStringsSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="885">
@@ -133,6 +119,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HIndexIISolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/HIndexIISolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -159,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/VerifyPreorderSequenceInBinarySearchTreeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeRightSideViewSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BitwiseANDOfNumbersRangeSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaximumProductOfWordLengths.java" />
@@ -210,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/UglyNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MissingNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/EncodeandDecodeStringsSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/HIndexIISolution.java" />
       </list>
     </option>
   </component>
@@ -908,13 +904,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/BinaryTreeRightSideViewSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/BitwiseANDOfNumbersRangeSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1295,6 +1284,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/HIndexIISolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
