@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/AndroidUnlockPatternsSolution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/GeneralizedAbbreviationSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/GeneralizedAbbreviationSolution.java" />
     </list>
     <ignored path="leetcode.iws" />
