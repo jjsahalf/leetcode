@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/MaximumSizeSubarraySumEqualskSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/MaximumSizeSubarraySumEqualskSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/WordLadderIISolution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,18 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdditiveNumberSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/AdditiveNumberSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RangeSumQueryMutableSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQueryMutableSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSizeSubarraySumEqualskSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumSizeSubarraySumEqualskSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MaximumSizeSubarraySumEqualskSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -139,6 +128,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadderIISolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/WordLadderIISolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/RangeSumQuery2DSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CountNumberswithUniqueDigitsSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/GuessNumberHigherorLowerIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PaintFenceSolution.java" />
@@ -216,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/WordBreakII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveKDigits.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaximumSizeSubarraySumEqualskSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/WordLadderIISolution.java" />
       </list>
     </option>
   </component>
@@ -936,13 +935,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQuery2DSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/CountNumberswithUniqueDigitsSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1330,6 +1322,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/WordLadderIISolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
