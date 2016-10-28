@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/LongestPalindromeSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/SmallestRectangleEnclosingBlackPixelsSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,18 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstUniqueCharacterInAStringSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/FirstUniqueCharacterInAStringSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ThirdMaximumNumberSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ThirdMaximumNumberSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestPalindromeSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestPalindromeSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/LongestPalindromeSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="499">
@@ -137,6 +125,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallestRectangleEnclosingBlackPixelsSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SmallestRectangleEnclosingBlackPixelsSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/LexicographicalNumbersSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/TrappingRainWaterSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PopulatingNextRightPointersInEachNodeIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/FindTheDuplicateNumberSolution.java" />
@@ -214,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/BinaryWatchSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CountOfRangeSumSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LongestPalindromeSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SmallestRectangleEnclosingBlackPixelsSolution.java" />
       </list>
     </option>
   </component>
@@ -956,13 +954,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LexicographicalNumbersSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/TrappingRainWaterSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -1339,6 +1330,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SmallestRectangleEnclosingBlackPixelsSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
