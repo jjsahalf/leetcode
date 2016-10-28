@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/BinaryWatchSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/CountOfRangeSumSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UTF8Validation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/UTF8Validation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BestMeetingPoint.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/BestMeetingPoint.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,14 +119,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryWatchSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryWatchSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/BinaryWatchSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
+            <state relative-caret-position="600">
               <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountOfRangeSumSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/CountOfRangeSumSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValue.java" />
         <option value="$PROJECT_DIR$/src/leetcode/GameOfLIfe.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LexicographicalNumbersSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/TrappingRainWaterSolution.java" />
@@ -214,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/QueueReconstructionByHeightSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/EvaluateDivisionSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BinaryWatchSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/CountOfRangeSumSolution.java" />
       </list>
     </option>
   </component>
@@ -956,13 +956,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/GameOfLIfe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1342,11 +1335,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/BinaryWatchSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
+        <state relative-caret-position="600">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/CountOfRangeSumSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
