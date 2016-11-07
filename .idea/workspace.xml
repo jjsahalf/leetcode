@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/IntegerReplacementSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValueII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SmallestRectangleEnclosingBlackPixelsSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SmallestRectangleEnclosingBlackPixelsSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CombinationSumIIISolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/CombinationSumIIISolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,7 +118,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerReplacementSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntegerReplacementSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerReplacementSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -136,6 +126,18 @@
               <folding>
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClosestBinarySearchTreeValueII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValueII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/FrogJumpSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/WordBreakII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveKDigits.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaximumSizeSubarraySumEqualskSolution.java" />
@@ -214,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/SentenceScreenFittingSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PacificAtlanticWaterFlowSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IntegerReplacementSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValueII.java" />
       </list>
     </option>
   </component>
@@ -1190,6 +1192,16 @@
           <folding>
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValueII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
