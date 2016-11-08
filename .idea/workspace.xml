@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/CreateMaximumNumberSolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/RangeAdditionSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,18 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WordSquaresSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/WordSquaresSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MaximumXOROfTwoNumbersInAnArraySolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MaximumXOROfTwoNumbersInAnArraySolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,7 +125,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateMaximumNumberSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateMaximumNumberSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/CreateMaximumNumberSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1710">
@@ -145,6 +133,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeAdditionSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RangeAdditionSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/WordLadderIISolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RandomPickIndexSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/WaterAndJugProblemSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IntegerToEnglishWordsSolution.java" />
@@ -222,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/RussianDollEnvelopesSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/KthSmallestElementInASortedMatrixSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/CreateMaximumNumberSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RangeAdditionSolution.java" />
       </list>
     </option>
   </component>
@@ -1243,6 +1241,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RangeAdditionSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
