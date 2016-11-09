@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/PatchingArraySolution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/MinimumHeightTreesSolution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SentenceScreenFittingSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/SentenceScreenFittingSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PacificAtlanticWaterFlowSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/PacificAtlanticWaterFlowSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,11 +122,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PatchingArraySolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PatchingArraySolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/PatchingArraySolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumHeightTreesSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/MinimumHeightTreesSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-318">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -164,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/IntegerToEnglishWordsSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/TheSkylineProblem.java" />
         <option value="$PROJECT_DIR$/src/leetcode/DungeonGameSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RegularExpressionMatchingSolution.java" />
@@ -215,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/RangeAdditionSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SuperUglyNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PatchingArraySolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MinimumHeightTreesSolution.java" />
       </list>
     </option>
   </component>
@@ -1259,6 +1259,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MinimumHeightTreesSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding />
         </state>
       </provider>
