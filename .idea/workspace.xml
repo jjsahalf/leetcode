@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d115a4-e28f-4cfc-8097-31dc0a6f071b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/MaxSumOfRectangleNoLargerThanK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/NumberOfBoomerangs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -25,19 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntegerReplacementSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/IntegerReplacementSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ClosestBinarySearchTreeValueII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ClosestBinarySearchTreeValueII.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,12 +117,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxSumOfRectangleNoLargerThanK.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxSumOfRectangleNoLargerThanK.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MaxSumOfRectangleNoLargerThanK.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
               <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfBoomerangs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/NumberOfBoomerangs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/DungeonGameSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RegularExpressionMatchingSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveInvalidParenthesesSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ExpressionAddOperatorsSolution.java" />
@@ -213,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/PatchingArraySolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MinimumHeightTreesSolution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaxSumOfRectangleNoLargerThanK.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/NumberOfBoomerangs.java" />
       </list>
     </option>
   </component>
@@ -1274,6 +1273,16 @@
         <state relative-caret-position="525">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/NumberOfBoomerangs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
